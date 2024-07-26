@@ -21,6 +21,7 @@ Escrevi o seguinte prompt para a I.A: "crie uma letra de música de rock sobre u
 
 ## 🚀 Resultados
 O resultado foi a seguinte letra 🤣:
+
 [Verse]
 Frustração no monitor piscando
 Linhas de código sem rumo dançando
@@ -57,7 +58,7 @@ Aquele símbolo surgiu no clarão
 O ponto e vírgula ali me encarando
 A solução no erro teimoso e brando
 
-<a href="https://suno.com/song/3884b764-0ee9-4c89-b92d-fb04b169c318"> 🎧 Clique aqui para escutar a música/a>
+<a href="https://suno.com/song/3884b764-0ee9-4c89-b92d-fb04b169c318"> 🎧 Clique aqui para escutar a música </a>
 
 ## 💭 Reflexão (Opcional)
 Me diverti bastante com o resultado e fiquei impressionada em como pareceu uma música real!
